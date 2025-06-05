@@ -49,7 +49,7 @@ AI를 통해 나의 정보를 분석하여 지원 자격에 해당하는지 알 
 </table>
 
 ### 📸 Demo Video
-- <a href=''>시연 영상</a>
+- <a href='https://youtu.be/jyJlv0aYP5U'>시연 영상</a>
 
 ### 🔗 Repository
 - <a href='https://github.com/Houscan-dev/houscan-frontend'>Frontend Repository</a>
