@@ -55,23 +55,9 @@ AI를 통해 나의 정보를 분석하여 지원 자격에 해당하는지 알 
 - <a href='https://github.com/Houscan-dev/houscan-frontend'>Frontend Repository</a>
 - <a href='https://github.com/Houscan-dev/houscan-backend'>Backend Repository</a>
 - <a href='https://github.com/Houscan-dev/houscan-ai'>AI Repository</a>
-
-### 🙌 Participants
-<table>
-  <tr>
-    <td>윤나경
-    </td>
-    <td>Leader, Design, Frontend</td>
-  </tr>
-    <td>김하정</td>
-    <td>Backend</td>
-  </tr>
-    <td>이연우</td>
-    <td>AI</td>
-  </tr>
-</table>
       
 ### 📆 Development Period
 2025.03 - 2025.06
 <br/>
 > 본 프로젝트는 2025년 성신여자대학교 AI융합학부 캡스톤디자인 프로젝트입니다.
+
