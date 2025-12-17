@@ -3,8 +3,7 @@
 ### 나에게 맞는 청약 공고와 순위를 한눈에 확인하세요
 하우스캔은 **청년을 위한 개인 맞춤형 청약 정보**를 쉽고 빠르게 제공합니다. <br />
 AI를 통해 나의 정보를 분석하여 지원 자격에 해당하는지 알 수 있습니다.  <br />
-자격이 충족된다면 몇 순위에 해당하는지, 충족되지 않는다면 그 이유를 함께 설명해드립니다.  <br />
-청약 공고에 관해 궁금한 점이 생긴다면 언제든 챗봇에게 질문해 보세요!
+자격이 충족된다면 몇 순위에 해당하는지, 충족되지 않는다면 그 이유를 함께 설명해드립니다.
 
 ### ⚙ Technology Stacks
 <table>
@@ -27,9 +26,9 @@ AI를 통해 나의 정보를 분석하여 지원 자격에 해당하는지 알 
   </tr>
     <td><strong>AI</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-2382bd4e?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
       <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4" />
   </td>
   </tr>
@@ -49,15 +48,14 @@ AI를 통해 나의 정보를 분석하여 지원 자격에 해당하는지 알 
 </table>
 
 ### 📸 Demo Video
-- <a href='https://youtu.be/jyJlv0aYP5U'>시연 영상</a>
+- <a href='https://youtu.be/sXYb3mKDirA'>시연 영상</a>
 
 ### 🔗 Repository
 - <a href='https://github.com/Houscan-dev/houscan-frontend'>Frontend Repository</a>
 - <a href='https://github.com/Houscan-dev/houscan-backend'>Backend Repository</a>
-- <a href='https://github.com/Houscan-dev/houscan-ai'>AI Repository</a>
+- <a href='https://github.com/Houscan-dev/houscan-ai-refactor'>AI Repository</a>
       
 ### 📆 Development Period
-2025.03 - 2025.06
+2025.03 - 2025.12
 <br/>
 > 본 프로젝트는 2025년 성신여자대학교 AI융합학부 캡스톤디자인 프로젝트입니다.
-
